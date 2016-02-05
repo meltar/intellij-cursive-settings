@@ -1,6 +1,7 @@
 <code_scheme name="Default (1)">
   <option name="RIGHT_MARGIN" value="80" />
   <ClojureCodeStyleSettings>{
+  :clojure.core/assoc 0
   :clojure.test/are :only-indent
   :cursive.formatting/align-maps false
   :fixtures.database/with-entries :only-indent
