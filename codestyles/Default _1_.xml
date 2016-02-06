@@ -6,4 +6,7 @@
   :cursive.formatting/align-maps false
   :fixtures.database/with-entries :only-indent
 }</ClojureCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
 </code_scheme>
